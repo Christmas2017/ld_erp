@@ -269,3 +269,6 @@ idea引入项目后，resources目录在eclipse中是在classpath下的，而在
     </generatorConfiguration>
 
 修改完成后，执行main方法即可。需要注意的是，若要重新生成，则需把已经生成的文件删除，因为它不会自己覆盖，导致文件混乱。关于Mybatis逆向工程的更多详细信息，读者可以自行上网查阅。
+=======
+# ld_erp
+莱达电子商务ERP系统
